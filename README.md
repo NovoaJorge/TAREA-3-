@@ -78,7 +78,7 @@ En este capitulo numero VI aprenderemos a la identificacion de los circuitos en 
 
 5.- CONCLUSIONES
 
-
+La importancia del capitulo V y VI son mas practicos por ende nos esta ayudando a un mejor entendimiento de los cicuitos aplicando leyes anteriormente vistas como la idenificacion de errores y solucion de problemas aplicados en los mismos.
 
 
 6.- BIBLIOGRAFÍA
