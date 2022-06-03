@@ -74,7 +74,7 @@ En este capitulo numero VI aprenderemos a la identificacion de los circuitos en 
 
 4.- VIDEO
 
-
+https://youtu.be/OEL0ondXj1A
 
 5.- CONCLUSIONES
 
