@@ -1,10 +1,8 @@
                         UNIVERSIDAD DE LAS FUERZAS ARMADAS 
                                       ESPE
                                       
-                                      
-                                      
-  [![Logo-ESPEOk.png](https://i.postim  g.cc/P5XdL97z/Logo-ESPEOk.png)](https://postimg.cc/HVhqRZdV)
-                                                                        
+[![ESPEtransparente.png](https://i.postimg.cc/2yP3YpmF/ESPEtransparente.png)](https://postimg.cc/sG43PNMv)
+
 
 NOMBRE DEL ESTUDIANTE: NOVOA VINUEZA JORGE SEBASTIAN 
   
@@ -48,7 +46,7 @@ CAPITULO VI
 
 En este capitulo numero VI aprenderemos a la identificacion de los circuitos en resesivos en paralelo, aplicaremos la ley de corrientes de kirchhoff, determinaremos el efecto total de una resistencia en paralelo los terminos claves para el desarrollo de esta unidada son: Divisor de corriente, Ley de las corrientes de Kirchhoff, Nodo, Paralelo, Rama
 
-
+[![Blank-diagram-5.png](https://i.postimg.cc/DztN1B2p/Blank-diagram-5.png)](https://postimg.cc/67fzXV4C)
 
 3.- EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
@@ -69,4 +67,7 @@ En este capitulo numero VI aprenderemos a la identificacion de los circuitos en 
 Definiciones - Medición de voltaje - item Glossar. (2018, May 2). Item24.com. https://glossar.item24.com/es/indice-de-glosario/articulo/item//medicion-de-voltaje.html
 
 Resistores en serie. (n.d.). Khan Academy. Retrieved June 3, 2022, from https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/a/ee-series-resistors
+
+References
+circuitos serie y paralelo. (n.d.). Retrieved June 3, 2022, from https://www.areatecnologia.com/TUTORIALES/CALCULO%20CIRCUITOS%20ELECTRICOS.htm
 
