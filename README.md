@@ -2,7 +2,8 @@
                                       ESPE
                                       
 
-[![ESPEtransparente.png](https://i.postimg.cc/2yP3YpmF/ESPEtransparente.png)](https://postimg.cc/sG43PNMv)
+![ESPEtransparente](https://user-images.githubusercontent.com/105685180/171860171-cabf01dd-6a37-4fbb-9367-304126736273.png)
+
 
 
 
@@ -52,47 +53,23 @@ En este capitulo numero VI aprenderemos a la identificacion de los circuitos en 
 
 3.- EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-![cicuitos ejer 3-01](https://user-images.githubusercontent.com/105685180/171852930-c1557354-d267-4e61-9237-ccc02750a7ea.png)
-
-
-![cicuitos ejer 3-02](https://user-images.githubusercontent.com/105685180/171852948-c99ac085-cbb9-4acf-9715-78c6991f9b56.png)
-
-
-![cicuitos ejer 3-03](https://user-images.githubusercontent.com/105685180/171853008-6b35ebb1-67ff-438e-901f-33cba163056c.png)
-
-
-![cicuitos ejer 3-04](https://user-images.githubusercontent.com/105685180/171853035-c0f38846-12ca-40a2-a7da-0a8930cde113.png)
-
-
-![cicuitos ejer 3-05](https://user-images.githubusercontent.com/105685180/171853064-9501690b-4d38-4794-a1ae-cc0842909167.png)
-
-
-![cicuitos ejer 3-06](https://user-images.githubusercontent.com/105685180/171853070-bfc247cf-0c19-49d0-939c-6e93d12aa1da.png)
-
-
-![cicuitos ejer 3-07](https://user-images.githubusercontent.com/105685180/171853098-64e586b4-6897-448a-abe5-3c3c40280acc.png)
-
-
-![cicuitos ejer 3-08](https://user-images.githubusercontent.com/105685180/171853102-8d389612-17fb-4ad0-9dad-efcebd2003cb.png)
-
-
-![cicuitos ejer 3-09](https://user-images.githubusercontent.com/105685180/171853127-e610dfd5-4d96-4a07-ae70-0d4405d445eb.png)
-
-
-![cicuitos ejer 3-10](https://user-images.githubusercontent.com/105685180/171853130-ef52534a-abc4-4100-82ce-6964f93deea2.png)
-
-
-![cicuitos ejer 3-11](https://user-images.githubusercontent.com/105685180/171853132-926a8c97-5cbe-40e8-a07a-5a3e036bf42c.png)
-
-
-![cicuitos ejer 3-12](https://user-images.githubusercontent.com/105685180/171853133-a2063666-8513-4a47-aa95-66c79cb22882.png)
-
-
-![cicuitos ejer 3-13](https://user-images.githubusercontent.com/105685180/171853136-35f16e02-d6d5-4b66-9196-eeaf23ef0fcb.png)
-
-
-![cicuitos ejer 3-14](https://user-images.githubusercontent.com/105685180/171853138-091b75d8-4693-4d6c-a9c5-d379270aa417.png)
-
+![Ejercicios nuevos pdf-01](https://user-images.githubusercontent.com/105685180/171860692-b7612e93-a1a1-4981-a3b2-da1a9388a784.png)
+![Ejercicios nuevos pdf-02](https://user-images.githubusercontent.com/105685180/171860694-78d4a9f2-b8a3-46f1-a338-2368c1502b18.png)
+![Ejercicios nuevos pdf-03](https://user-images.githubusercontent.com/105685180/171860696-14285838-33bd-458c-9304-7f1bb741b5ef.png)
+![Ejercicios nuevos pdf-04](https://user-images.githubusercontent.com/105685180/171860697-ea4b566b-4a8b-4eb8-9c51-1a11c02434dc.png)
+![Ejercicios nuevos pdf-05](https://user-images.githubusercontent.com/105685180/171860698-28da1498-0faf-46f2-abdc-76b22310440e.png)
+![Ejercicios nuevos pdf-06](https://user-images.githubusercontent.com/105685180/171860701-421b5694-f02b-411e-bf38-a0abd5a0eef4.png)
+![Ejercicios nuevos pdf-07](https://user-images.githubusercontent.com/105685180/171860703-ea8fcc04-e21a-473f-9222-f97edcc49b72.png)
+![Ejercicios nuevos pdf-08](https://user-images.githubusercontent.com/105685180/171860706-792b5f5e-d374-4d60-9440-802fb03f6239.png)
+![Ejercicios nuevos pdf-09](https://user-images.githubusercontent.com/105685180/171860708-f319fc7c-7684-42f7-b5f0-081cab2a1090.png)
+![Ejercicios nuevos pdf-10](https://user-images.githubusercontent.com/105685180/171860709-0b84458c-047e-4edf-837d-dd8af9e245e2.png)
+![Ejercicios nuevos pdf-11](https://user-images.githubusercontent.com/105685180/171860710-20d60927-7c01-45f9-805e-45d51c7b8eff.png)
+![Ejercicios nuevos pdf-12](https://user-images.githubusercontent.com/105685180/171860712-ad56d5f9-777a-4cc7-89d4-5e26d338ad49.png)
+![Ejercicios nuevos pdf-13](https://user-images.githubusercontent.com/105685180/171860716-731f684a-116e-42aa-adcd-99a4d7b75468.png)
+![Ejercicios nuevos pdf-14](https://user-images.githubusercontent.com/105685180/171860717-89be046c-ce5b-45b6-a656-04df8ab0699a.png)
+![Ejercicios nuevos pdf-15](https://user-images.githubusercontent.com/105685180/171860719-59e59c50-57e5-47c4-a299-f5f7c666039d.png)
+![Ejercicios nuevos pdf-16](https://user-images.githubusercontent.com/105685180/171860721-66f5dbb1-d30f-4751-968f-78ad372e51c1.png)
+![Ejercicios nuevos pdf-17](https://user-images.githubusercontent.com/105685180/171860723-87fbf168-5515-48c6-a559-51446a7305bf.png)
 
 
 4.- VIDEO
